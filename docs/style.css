@@ -1117,3 +1117,11 @@ h4 {
     font-size: 1.5rem;
     text-align: center;
 }
+
+.btn.btn-danger {
+    background-color: rgb(48,48,48);
+    border-style: none;
+    color: #F3976C!important;
+    font-size: 1.8rem;
+    font-weight: bolder;
+}
