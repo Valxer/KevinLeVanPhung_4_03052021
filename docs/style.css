@@ -780,12 +780,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: rgb(48,48,48)!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: rgb(48,48,48)!important;
 }
 
 .ltc-white {
@@ -1039,4 +1039,29 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+#blocbottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bottomtitle {
+    background-color: rgb(48,48,48)!important;
+    width: 70ch;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+#bottomname {
+    color: rgb(48,48,48)!important;
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+.fa.icon-md.grey {
+    color: rgb(48,48,48);
+    font-size: 4rem!important;
 }
