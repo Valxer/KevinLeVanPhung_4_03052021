@@ -822,8 +822,9 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
+
 
 @media (max-width: 1024px) {
     .bloc {
@@ -1092,4 +1093,11 @@ h4 {
 #worktitle {
     font-size: 2.5rem;
     width: 60%;
+}
+
+.who {
+    color: #575757;
+    font-size: 2.3rem;
+    width: 60ch;
+    margin-bottom: 50px;
 }
